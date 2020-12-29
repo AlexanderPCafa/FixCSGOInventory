@@ -1,12 +1,12 @@
 # FixCSGOInventory
 
-This chrome extension loads the csgo inventories over a more stable endpoint to avoid loading errors.
+This Chrome and Firefox extension loads the CS:GO inventories over a more stable endpoint to avoid loading errors.
 
 ## Showcase
 
 <img alt="Showcase" src="https://github.com/cantryDev/FixCSGOInventory/blob/master/Showcase.gif?raw=true">
 
-## Installation
+## Chrome Installation
 
 1. Download and unzip the zip file.
 2. Visit chrome://extensions (via omnibox or menu -> Tools -> Extensions).
